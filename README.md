@@ -1,5 +1,5 @@
 # TASK-1
-## Create A Private Block Chain Using Javascrip
+## Create A Private Block Chain Using Javascript
 
 The Data Model of the Blockchain should be like 
 ```js
